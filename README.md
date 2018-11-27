@@ -1,7 +1,9 @@
 # viso2
-==========
-ROS Stack containing a wrapper for libviso2, a visual odometry library. 
-http://www.ros.org/wiki/viso2 for the list of contained packages.
+
+
+        ROS Stack containing a wrapper for libviso2, a visual odometry library. 
+        
+        http://www.ros.org/wiki/viso2 for the list of contained packages.
 
 
         从多个二维图片中重建3D影像是机器视觉必不可少的部分，这篇论文【1】提出的就是做3D重建的工作。
